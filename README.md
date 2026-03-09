@@ -4,4 +4,4 @@
 
 *Este repositório contém milhões de versões do Bluebel OS*
 
-*Este repositorio contiene millones de versiones de Bluebel OS
+*Este repositorio contiene millones de versiones de Bluebel OS*
